@@ -50,7 +50,7 @@ Think of a VM as a blueprint for a blockchain; you can use the same VM to create
 
 ### Why Virtual Machines?
 
-At first, blockchain networks had one Virtual Machine (VM) with a pre-defined, static set of functionality. This rigid, monolithic design limited what blockchain-based applications one could run on such networks.
+At first, blockchain networks had one Virtual Machine (VM) with a pre-defined, static set of functionality. This rigid, monolithic design limited what blockchain-based applications could run on such networks.
 
 People who wanted custom decentralized applications had to create their own, entirely new blockchain network from scratch. Doing so required a great deal of time and effort, offered limited security, and generally resulted in a bespoke, fragile blockchain that never got off the ground.
 
@@ -85,7 +85,7 @@ The [P-Chain API](../../build/avalanchego-apis/platform-chain-p-chain-api.md) al
 
 ## Contract Chain (C-Chain)
 
-The **C-Chain** allows for the creation smart contracts using the [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
+The **C-Chain** allows for the creation of smart contracts using the [C-Chain’s API](../../build/avalanchego-apis/contract-chain-c-chain-api.md).
 
 The C-Chain is an instance of the Ethereum Virtual Machine powered by [Avalanche](../../).
 
